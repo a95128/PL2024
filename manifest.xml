@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc> 
+    <meta>
+        <title>PL2024</Title>
+        <author>
+            <id>a95128</id>
+            <nome>Ana Joao da Rocha Alves</nome>
+        </author>
+    </meta>
+    <resumo>
+        <p>Primeiro parágrafo</p>
+        <p>Segundo parágrafo</p>
+        <p>Terceiro parágrafo</p>
+    </resumo>
+</doc>    
