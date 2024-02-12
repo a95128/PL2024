@@ -22,7 +22,6 @@ filter_modalidades = sorted(set(modalidades))
 
 #Percentagens de atletas aptos e inaptos para a prática desportiva
 
-resultados = resultados
 numero_atletas = len(resultados)
 
 aptos = resultados.count('true\n')
