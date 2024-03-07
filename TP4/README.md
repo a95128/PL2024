@@ -21,4 +21,5 @@ Para cada correspondência encontrada pela expressão regular, o tipo de token �
 
 
 
-**Fotografia:** ![Texto Alternativo](output.png)
+**Resultado:** 
+![Texto Alternativo](output.png)
