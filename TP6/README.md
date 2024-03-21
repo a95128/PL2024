@@ -14,7 +14,7 @@ b = a * 2 /(27-3)
 ! = a+b
 c = a*b /(a/b)
 
-garantindo a prioridade dos operados 
+garantindo a prioridade dos operadores
 
 
 ## IMPLEMENTAÇÃO
